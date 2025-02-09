@@ -34,7 +34,3 @@
 
 ## 📄 Licence  
 Ce projet est un **exercice d’apprentissage** d’Epitech. Il n’a pas de licence spécifique et **ne doit pas être utilisé pour tricher** si vous êtes étudiant(e) à Epitech.  
-
----
-
-Si tu veux que j’ajoute ou modifie des parties, dis-moi ! 😊
