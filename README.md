@@ -12,7 +12,7 @@
 ## 🛠️ Technologies utilisées  
 - **Langage** : C  
 - **Bibliothèque graphique** : CSFML  
-- **Compilation** : Makefile avec les flags adaptés à CSFML  
+- **Compilation** : Makefile
 
 ## 📷 Aperçu  
 *(Ajoute ici une capture d’écran du projet si possible.)*  
@@ -20,7 +20,7 @@
 ## 🚀 Installation et exécution  
 1. **Cloner le projet**  
    ```sh
-   git clone <URL_DU_REPO>
+   git clone <URL_DU_REPO>](https://github.com/pierreRISS/My_radar.git
    cd my_radar
    ```
 2. **Compiler**  
