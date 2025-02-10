@@ -14,9 +14,6 @@
 - **Bibliothèque graphique** : CSFML  
 - **Compilation** : Makefile
 
-## 📷 Aperçu  
-*(Ajoute ici une capture d’écran du projet si possible.)*  
-
 ## 🚀 Installation et exécution  
 1. **Installer CSFML**  
    ```sh
