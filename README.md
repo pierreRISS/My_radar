@@ -18,16 +18,20 @@
 *(Ajoute ici une capture d’écran du projet si possible.)*  
 
 ## 🚀 Installation et exécution  
-1. **Cloner le projet**  
+1. **Installer CSFML**  
+   ```sh
+   Installer CSFML depuis le repo officiel.
+   ```
+2. **Cloner le projet**  
    ```sh
    git clone <URL_DU_REPO>](https://github.com/pierreRISS/My_radar.git
    cd my_radar
    ```
-2. **Compiler**  
+3. **Compiler**  
    ```sh
    make
    ```
-3. **Exécuter**  
+4. **Exécuter**  
    ```sh
    ./my_radar
    ```  
