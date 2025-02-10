@@ -21,7 +21,7 @@
    ```
 2. **Cloner le projet**  
    ```sh
-   git clone <URL_DU_REPO>](https://github.com/pierreRISS/My_radar.git
+   git clone https://github.com/pierreRISS/My_radar.git
    cd my_radar
    ```
 3. **Compiler**  
